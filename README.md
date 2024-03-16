@@ -6,7 +6,8 @@ This MATLAB script generates a captivating visualization depicting a circle over
 
 The output of the code is a visualization of a circle overlaid with wavy lines. The wavy lines are created using mathematical functions, resulting in an intriguing visual pattern.
 
-![Circle with Wavy Lines Visualization](CircleWithWavyLines.png)
+![Circle with Wavy Lines Visualization]
+<img src="CircleWithWavyLines.png" alt="Circle with Wavy Lines Visualization" width="400" height="300">
 
 ## How to Use
 
